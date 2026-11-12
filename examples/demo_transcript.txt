@@ -1,0 +1,1 @@
+Hello! Um, this is a synthetic example. We can measure words and pauses locally.
